@@ -2,7 +2,7 @@
 
 # MP.Missions Files For Dayz Maps
 
-# DISCLAIMER: if anyone ever tries to use these, be forewarned: all this is highly tuned for PvE.
+# DISCLAIMER: if anyone ever tries to use these, be forewarned: Random Setups.
 
 ##
              ___  ___  ___  ___  ___  ____ ___  ___   ___  ___  _ _  ____  __ __  ___  ___  ____
